@@ -8,6 +8,9 @@ import userRouter from './Routes/user.routes.js'; // users
 import subscriptionRouter from './Routes/subscriptions.routes.js'; // subscriptions
 import workflowRouter from './Routes/workflow.routes.js'; // workflows
 
+// import database :
+import connectToDatabase from "./database/mongodb.js";
+
 //middlewares :
 import errorMiddleware from "./middlewares/error.middleware.js";
 import arcjetMiddleware from "./middlewares/arcjet.middleware.js";
