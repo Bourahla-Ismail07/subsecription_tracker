@@ -1,4 +1,4 @@
-# SubDub — Subscription Tracking & Renewal Reminder API
+# Subscription Tracking & Renewal Reminder API
 
 A production-ready backend service for managing user subscriptions, automated renewal reminders, authentication, and workflow-driven email notifications.
 
