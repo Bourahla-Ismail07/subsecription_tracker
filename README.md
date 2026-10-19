@@ -6,7 +6,7 @@ Built with scalable backend architecture principles using **Node.js**, **Express
 
 ---
 
-# 🚀 Features
+# Features
 
 * JWT Authentication & Authorization
 * Subscription CRUD Management
@@ -22,7 +22,7 @@ Built with scalable backend architecture principles using **Node.js**, **Express
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 Client
@@ -51,7 +51,7 @@ Nodemailer Email Service
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Technology       | Purpose                  |
 | ---------------- | ------------------------ |
@@ -69,7 +69,7 @@ Nodemailer Email Service
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 ├── config/                 # External services & environment configs
@@ -85,7 +85,7 @@ Nodemailer Email Service
 
 ---
 
-# 📦 Folder Breakdown
+# Folder Breakdown
 
 ## `/config`
 
@@ -240,7 +240,7 @@ Handles:
 
 ---
 
-# 🔐 Security Layer
+# Security Layer
 
 This project uses **Arcjet** for production-grade request protection.
 
@@ -258,7 +258,7 @@ Example:
 
 ---
 
-# 🔄 Workflow Automation
+# Workflow Automation
 
 The project integrates **Upstash Workflow** to schedule delayed subscription reminders.
 
@@ -286,7 +286,7 @@ Reminder intervals:
 
 ---
 
-# 🔑 Authentication Flow
+# Authentication Flow
 
 ```text
 User Signup/Login
@@ -306,7 +306,7 @@ Protected Route Access
 
 ---
 
-# 🌍 Environment Variables
+# Environment Variables
 
 Create:
 
@@ -341,7 +341,7 @@ EMAIL_PASSWORD=
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Clone Repository
 
@@ -430,7 +430,7 @@ POST /api/v1/workflows/subscription/reminder
 
 ---
 
-# 🧠 Backend Concepts Demonstrated
+# Backend Concepts Demonstrated
 
 This project demonstrates professional backend engineering concepts:
 
@@ -447,6 +447,6 @@ This project demonstrates professional backend engineering concepts:
 
 ---
 
-# 📄 License
+# License
 
 MIT License
